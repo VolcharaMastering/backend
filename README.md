@@ -37,3 +37,4 @@
 - Enter "npm install" in bash/shell/powershell commander,
 - Start project or run it in dev mode (npm start / npm run dev).
 
+.env-file included, because it's a test backend server
